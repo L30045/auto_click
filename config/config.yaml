@@ -1,0 +1,9 @@
+credentials:
+  username: chiyuan30045@gmail.com
+  password: 123456
+
+booking_details:
+  product_name: "Printed Dress"
+  quantity: 1
+  size: "M"
+  color: "Pink"
